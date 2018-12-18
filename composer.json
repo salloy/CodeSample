@@ -1,0 +1,14 @@
+{
+    "name": "vendor/package",
+    "description": "My First Package",
+    "license": "LSR",
+    "authors": [
+        {
+            "name": "Shobhit",
+            "email": "shobhit833@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
